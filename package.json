@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/code-enjoyers/",
+    "build": "vite build --base=/100_html-css_d3nnys/",
     "preview": "vite preview"
   },
   "devDependencies": {
